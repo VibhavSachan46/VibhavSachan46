@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vibhav Raj Sachan</h1>
 <h3 align="center">A passionate Native Android App developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://animafoundation.in/wp-content/uploads/2021/03/mobile-app.gif">  
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">  
 
 <p align="left"> <img src="https://animafoundation.in/wp-content/uploads/2021/03/mobile-app.gif" alt="vibhavsachan46" /> </p>
 
