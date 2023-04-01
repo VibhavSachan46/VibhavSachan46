@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://animafoundation.in/wp-content/uploads/2021/03/mobile-app.gif">  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhavsachan46&label=Profile%20views&color=0e75b6&style=flat" alt="vibhavsachan46" /> </p>
+<p align="left"> <img src="https://animafoundation.in/wp-content/uploads/2021/03/mobile-app.gif" alt="vibhavsachan46" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sachan_vibhav" target="blank"><img src="https://img.shields.io/twitter/follow/sachan_vibhav?logo=twitter&style=for-the-badge" alt="sachan_vibhav" /></a> </p>
 
