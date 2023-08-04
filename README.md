@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vibhav Raj Sachan</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="[hhttps://tenor.com/bqksy.gif](https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)">  
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">  
 
 <p align="left"> <a href="https://twitter.com/sachan_vibhav" target="blank"><img src="https://img.shields.io/twitter/follow/sachan_vibhav?logo=twitter&style=for-the-badge" alt="sachan_vibhav" /></a> </p>
 
